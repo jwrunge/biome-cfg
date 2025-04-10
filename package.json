@@ -4,8 +4,8 @@
   "description": "My biome config",
   "license": "ISC",
   "author": "",
-  "type": "commonjs",
-  "main": "index.js",
+  "type": "module",
+  "main": "biome.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
