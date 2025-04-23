@@ -39,14 +39,12 @@
 				"useTopLevelRegex": "error"
 			},
 			"style": {
-				"noDefaultExport": "error",
 				"noDoneCallback": "error",
 				"noNamespace": "error",
 				"noNamespaceImport": "error",
 				"noNegationElse": "error",
 				"noParameterProperties": "error",
 				"noYodaExpression": "error",
-				"useBlockStatements": "error",
 				"useCollapsedElseIf": "error",
 				"useConsistentArrayType": "error",
 				"useDefaultSwitchClause": "error",
